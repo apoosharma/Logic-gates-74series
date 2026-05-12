@@ -1,5 +1,3 @@
-# Logic-gates-74series
-Functioning of Logic-gates with the help of LED's, battery, voltage divider.
 # Logic Gates using 74-Series ICs 🔌
 
 Hands-on implementation and verification of basic logic gates 
@@ -61,16 +59,6 @@ LED with 1kΩ series resistor shows the output visually.
 |---------|--------|
 | 0 | 1 ✅ |
 | 1 | 0 |
-
----
-
-## 📸 Circuit Photos
-
-### AND Gate
-![AND Gate](circuit-diagrams/AND-gate.jpg)
-
-### OR Gate
-![OR Gate](circuit-diagrams/OR-gate.jpg)
 
 ---
 
